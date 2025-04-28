@@ -116,3 +116,12 @@ for(let ab of a){
     console.log(ab);
 }
 
+const a="Tanvir"
+
+for(let ab of a){
+    console.log(ab);
+}const a="Tanvir"
+
+for(let ab of a){
+    console.log(ab);
+}
